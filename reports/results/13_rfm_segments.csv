@@ -1,0 +1,7 @@
+segment,customers,customers_pct,revenue,revenue_pct,avg_spend,avg_recency_days
+Lapsed big spenders,10329,11.06,4089138.0,30.93,395.89,341.0
+Dormant one-time buyers,44081,47.22,3330878.0,25.2,75.56,337.0
+Recent big spenders,6923,7.42,2820542.0,21.34,407.42,92.0
+Recent one-time buyers,29216,31.3,2251283.0,17.03,77.06,91.0
+Lapsed repeat buyers,1600,1.71,403251.0,3.05,252.03,320.0
+Active repeat buyers,1201,1.29,325158.0,2.46,270.74,89.0

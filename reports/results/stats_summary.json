@@ -1,0 +1,17 @@
+{
+  "n_reviewed_orders": 95824,
+  "n_late": 6381,
+  "n_on_time": 89443,
+  "mean_score_on_time": 4.29,
+  "mean_score_late": 2.27,
+  "mean_difference": 2.02,
+  "bootstrap_95ci_difference": [
+    1.98,
+    2.058
+  ],
+  "mann_whitney_u": 467430237.0,
+  "mann_whitney_p": 0.0,
+  "common_language_effect_size_ties_split": 0.819,
+  "spearman_rho_days_vs_estimate_and_score": -0.176,
+  "spearman_p": 0.0
+}

@@ -1,0 +1,13 @@
+check_name,issues,rows_checked
+orders: duplicate order_id,0,99441
+orders: customer_id missing in customers,0,99441
+order_items: order_id missing in orders,0,112650
+order_items: product_id missing in products,0,112650
+order_items: seller_id missing in sellers,0,112650
+orders: no items (any status),775,99441
+orders: delivered but no delivery date,8,96478
+orders: delivered before purchase,0,96476
+order_reviews: orders with more than one review,547,98673
+order_reviews: review_score outside 1-5,0,99224
+order_items: non-positive price,0,112650
+delivered_orders view: rows excluded for missing items,0,96478
